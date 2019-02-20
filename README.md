@@ -4,8 +4,8 @@ Developed by pulling from multiple sources.
 
 More details here: https://mitrocketscience.blogspot.com/2019/02/openbsd-openvpn-and-bittorrent-client.html
 
-OpenVPN up helper script:
--Called with "route-up /full/path/to/openvpn_up_helper.sh" in the .ovpn configuration file.
+OpenVPN up helper script:  
+-Called with "route-up /full/path/to/openvpn_up_helper.sh" in the .ovpn configuration file.  
 -Calls the openvpn up script. 
 
 OpenVPN up script:
